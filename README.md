@@ -2,7 +2,7 @@
 - I’m interested in Information Security and developing security related tools. I've worked primarily with Powershell,
   Go, Python, and Vue.
   
-- I believe security in IT is taken for granted, partially because it rarely can be implemented without some impact to end users,
+- I believe security is taken for granted, partially because it rarely can be implemented without some impact to end users,
   and partially because security practices are often left behind in the interest of getting things done quickly.
   Therefore, my goal is to make it easier for companies and security teams to manage
   security while keeping impacts to production to a minimum. 
