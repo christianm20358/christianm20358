@@ -9,6 +9,9 @@
   
 - Currently my main project is developing an ecosystem of Security tools with an end goal
   of having a tool dedicated to each of the CIS18 Critical Security Controls.
+
+- Side projects include developing Powershell modules dedicated to automation and security and a Go package of general tools that
+  could be used in many projects. 
   
 - How to reach me:
 
