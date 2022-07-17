@@ -6,10 +6,6 @@
   
 - Lately I've been interested in eBPF and am following its development and potential use cases quite closely, I think it could be a game changer for a lot of fields.  
   
-- I think security can be taken for granted partially because it rarely can be implemented without some impact to end users,
-  and partially because security practices are often set aside in the interest of getting things done quickly.
-  Therefore, my goal is to make security tools that make implementing security best practices seamless and easy to manage.
-
 - Side projects include developing projects dedicated to automation and security as well as more generalized tools that
   could be used in many projects. 
   
