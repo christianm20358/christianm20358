@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Christian Miller
 
-- I’m interested in software development, in particular in InfoSec, Distributed Systems, and Network programming. I've worked primarily with Go, Vue, Python and Powershell.
+- I’m interested in software development, in particular in InfoSec, Distributed Systems, and Network programming. I've worked primarily with Go, C, Vue, Python and Powershell.
   
 - You can find some additional projects of mine under the [Ganymede-Security](https://github.com/ganymede-security) Organization   
+  
+- Lately I've been interested in eBPF and am following its development and potential use cases quite closely, I think it could be a game changer for a lot of fields.  
   
 - I think security can be taken for granted partially because it rarely can be implemented without some impact to end users,
   and partially because security practices are often set aside in the interest of getting things done quickly.
